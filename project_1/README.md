@@ -45,5 +45,6 @@
 ### Результаты:
 [Ноутбук с выполненными заданиями и выводами](https://github.com/E-Knyazeva/sf_data_science/blob/master/project_1/project_1new.ipynb)
 [Графики по выполненным заданиям](https://github.com/E-Knyazeva/IDE/tree/1bf2c8879d91fa9b40ab1ff54dd7db57db299d57/project_1/plotly)
+[файл с данными](https://drive.google.com/file/d/150MkqoLrH4I8e_zlEdls__wQPsCtoGJX/view?usp=share_link)
 
 :arrow_up: [к оглавлению](README.md#оглавление)
