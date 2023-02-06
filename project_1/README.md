@@ -1,14 +1,14 @@
 # Project 1. Анализ базы данных резюме с HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://vscode.dev/github/E-Knyazeva/IDE/blob/67dc86063f1477bc4abdb09fe18457344988b19b/project_1/README.md#L7)
-[2. Какой кейс решаем?](https://vscode.dev/github/E-Knyazeva/IDE/blob/67dc86063f1477bc4abdb09fe18457344988b19b/project_1/README.md#L12)
-[3. Результаты](https://vscode.dev/github/E-Knyazeva/IDE/blob/67dc86063f1477bc4abdb09fe18457344988b19b/project_1/README.md#L44)
+[1. Описание проекта](README.md#описание-проекта)
+[2. Какой кейс решаем?](README.md#какой-кейс-решаем)
+[3. Результаты](README.md#результаты)
 
 ### Описание проекта
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий HeadHunter (hh.ru)
 
-:arrow_up: [к оглавлению](https://vscode.dev/github/E-Knyazeva/IDE/blob/67dc86063f1477bc4abdb09fe18457344988b19b/project_1/README.md#L2)
+:arrow_up: [к оглавлению](README.md#оглавление)
 
 ### Какой кейс решаем?
 
@@ -39,10 +39,10 @@
 - Работу с днными
 - Оформление отчетов с помощью средств Python
 
-:arrow_up: [к оглавлению](https://vscode.dev/github/E-Knyazeva/IDE/blob/67dc86063f1477bc4abdb09fe18457344988b19b/project_1/README.md#L2)
+:arrow_up: [к оглавлению](README.md#оглавление)
 
 
 ### Результаты:
 [Ноутбук с выполненными заданиями и выводами](https://github.com/E-Knyazeva/sf_data_science/blob/master/project_1/project_1new.ipynb)
 
-:arrow_up: [к оглавлению](https://vscode.dev/github/E-Knyazeva/IDE/blob/67dc86063f1477bc4abdb09fe18457344988b19b/project_1/README.md#L2)
+:arrow_up: [к оглавлению](README.md#оглавление)
