@@ -44,6 +44,6 @@
 
 ### Результаты:
 Выполнены все этапы проекта, контрольные задания платфоррме выполнены в полном объеме.
-[Ноутбук с выполненными заданиями и выводами](https://github.com/E-Knyazeva/sf_data_science/blob/master/project_1/project_1new.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/E-Knyazeva/IDE/blob/master/project_2/project_2%20—%20копия.ipynb)
 
 :arrow_up: [к оглавлению](README.md#оглавление)
